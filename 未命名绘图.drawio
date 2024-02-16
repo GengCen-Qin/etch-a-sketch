@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T02:23:12.273Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="rFAipQ4yKyPjn7_2Z4KQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T02:27:05.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ua_EBA7RRUqnjrQP6tJT" version="23.1.5" type="github">
   <diagram name="第 1 页" id="zlSYyDZptZaAZmgdXW2d">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KstUIOcQmTh1G5ytGAGE-1" value="A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KstUIOcQmTh1G5ytGAGE-2" value="B&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
